@@ -7,3 +7,5 @@ this app that can perform servel operations on a picture
 ### Technical Diagram
 ![Diagram](./Technical-Diagram-pixel.jpg)
 v bfd
+
+dfd
